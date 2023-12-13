@@ -7,10 +7,10 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ashish-kamaliya-11a4aa1b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/_ashish_kamaliya/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
@@ -32,8 +32,6 @@ I am a .Net Full Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles
   
 - 🎯 Focused on **Data Analysis**.
-
-- 💼 I’m currently working with **.Net technology**
 
 - 🎓 Pursuing **(M.Sc.IT)Masters of Science in Information technology**.
 
