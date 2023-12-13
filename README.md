@@ -68,6 +68,7 @@ I am a .Net Full Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ashishkamaliya&theme=light&background=ffffff)](https://git.io/streak-stats)
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkamaliya)](https://github.com/anuraghazra/github-readme-stats)--->
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashishkamaliya&show_icons=true&bg_color=ffffff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkamaliya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
