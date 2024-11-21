@@ -31,7 +31,7 @@ I am a .Net Full Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles
   
-- 🎯 Focused on **Data Analysis**.
+- 🎯 Focused on **Data Science**.
 
 - 🎓 Pursuing **(M.Sc.IT)Masters of Science in Information technology**.
 
